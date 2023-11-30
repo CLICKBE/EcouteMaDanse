@@ -1,0 +1,6 @@
+[submodule "EcouteMaDance-PosesForAI"]
+	path = EcouteMaDance-PosesForAI
+	url = https://github.com/CLICKBE/EcouteMaDance-PosesForAI
+[submodule "EcouteMaDance-VRExp"]
+	path = EcouteMaDance-VRExp
+	url = https://github.com/CLICKBE/EcouteMaDance-VRExp
